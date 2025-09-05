@@ -31,8 +31,8 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "crypto": "^1.0.1",
-    "oauth-1.0a": "^2.2.6",
+    "humps": "^1.1.0",
+    "oauth-1.0a": "^1.0.1",
     "request": "^2.88.0",
     "winston": "^2.4.6"
   },
